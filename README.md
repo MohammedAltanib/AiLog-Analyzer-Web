@@ -3,6 +3,7 @@
     <img src="web/mylogo.png" alt="AI Log Analyzer Logo" width="250"/>
   </a>
 </p>
+
 # AI Log Analyzer — Web UI (Streamlit) — by Mohammed Altanib
 
 Upload an Apache/Nginx access log and get **ranked suspicious IPs**, **charts**, and **ready firewall rules** (UFW/iptables).  
