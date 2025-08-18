@@ -3,6 +3,11 @@
     <img src="web/mylogo.png" alt="AI Log Analyzer Logo" width="250"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://mohammedaltanib.com">
+    <img src="web/How.gif" alt="AI Log Analyzer Logo" width="500"/>
+  </a>
+</p>
 
 # AI Log Analyzer — Web UI (Streamlit) — by Mohammed Altanib
 
