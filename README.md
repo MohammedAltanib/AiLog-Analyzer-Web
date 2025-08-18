@@ -11,6 +11,15 @@ Brand: **mohammedaltanib.com**
 
 ## Run locally
 ```bash
+git clone https://github.com/MohammedAltanib/AiLog-Analyzer-Web.git
+cd AiLog-Analyzer-Web/web
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements-web.txt
+streamlit run app.py
+```
+
+## Run locally
+```bash
 cd web
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements-web.txt
