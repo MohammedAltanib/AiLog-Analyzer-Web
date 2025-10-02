@@ -15,7 +15,7 @@ spec = importlib.util.spec_from_file_location("ai_core", core_path)
 ai_core = importlib.util.module_from_spec(spec)
 sys.modules["ai_core"] = ai_core
 spec.loader.exec_module(ai_core)  # type: ignore
-#st.image("logo.png", width=200)
+st.image("logo.png", width=200)
 st.set_page_config(page_title="AI Log Analyzer — Mohammed Altanib", layout="wide")
 st.title("AI Log Analyzer — by Mohammed Altanib")
 st.image("mylogo.png", width=250, caption="by Mohammed Altanib")
